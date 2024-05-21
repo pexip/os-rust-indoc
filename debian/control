@@ -15,7 +15,7 @@ Standards-Version: 4.5.1
 Vcs-Git: https://salsa.debian.org/rust-team/debcargo-conf.git [src/indoc]
 Vcs-Browser: https://salsa.debian.org/rust-team/debcargo-conf/tree/master/src/indoc
 Rules-Requires-Root: no
-XS-Pexip-Upstream: http://ftp.debian.org/debian/ bookworm
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ trixie
 
 Package: librust-indoc-dev
 Architecture: any
